@@ -1,0 +1,28 @@
+"Order ID","Customer Name","Customer Email","Address: Address Line 1","Address: Address Line 2","Address: City","Address: State","Address: Zip/Postal Code","Address: Country","Phone Number","Product Name","Order Details","Payment Method","Total Amount","Paid Amount","Remaining Amount","Upload Payment Receipt"
+100,"Muhammad Ahmed",ahmed405400@gmail.com,"house no 32 , street no'3-mohala hafizabad.",,Rawalpindi.,,46000,US,03338709064,"Blood Arc (JJK)",nil,"Full Payment",1000,100,900,
+12,"Muhammad Ahmed",ahmed405400@gmail.com,"House No.30-A, Street No. 5, Hafizabad, Westridge 2, Rawalpindi., 46000 Rawalpindi",,Rawalpindi,,46000,US,03345020979,"Blood Arc (JJK)",,"Cash on Delivery",5000,465,4535,
+12,"Muhammad Ahmed",ahmed405400@gmail.com,"House No.30-A, Street No. 5, Hafizabad, Westridge 2, Rawalpindi., 46000 Rawalpindi",,Rawalpindi,,46000,US,03345020979,"Blood Arc (JJK)",,"Cash on Delivery",5000,465,4535,
+12,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",,"Cash on Delivery",5000,465,4535,
+54,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",,"Cash on Delivery",5000,4688,312,
+54,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",,"Cash on Delivery",5000,4688,312,
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,"Blood Arc (JJK)",,"Partial Payment",5000,4688,312,
+100,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",,"Partial Payment",99998,500,99500,
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",,"Partial Payment",100000,500,99500,
+10,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,"Blood Arc (JJK)",Nil,"Cash on Delivery",100000,500,99500,
+10,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,,"Cash on Delivery",100000,500,99500,
+10,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,,"Cash on Delivery",100000,500,99500,
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,,"Cash on Delivery",100000,500,99500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/ANIMANIA-1-cee350a964781f075db69a5fc45f0a7f.png
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,,"Cash on Delivery",100000,500,99500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/ANIMANIA-1-a925983c459f89955327c6e33d61d511.png
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,,"Cash on Delivery",100000,500,99500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/pexels-celine-93674903-9182483-564397b1dea6cecd5339140c4be14048.jpg
+99,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,nil,"Partial Payment",100,500,0,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/ANIMANIA-2-a79e16eae53240b3ba75e78659aa8f16.png
+11,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,ss,"Cash on Delivery",1000,500,500,
+11,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,a,"Partial Payment",1000,500,500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/pexels-celine-93674903-9182483-ce497909ab621d08c6fec2592bcd4be9.jpg
+11,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,,"Cash on Delivery",1000,500,500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/pexels-hikoshi92-1240934618-23070738-85a2f9144e37764404699265177a8dc1.jpg
+11,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03325888265,,,"Cash on Delivery",1000,,,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/ANIMANIA-1-a18661ce59dcbcb36790b362922860a8.png
+900,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03338709062,,,"Full Payment",1000,1000,0,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/ANIMANIA-1-cc1067b1502ff0f06c808f7f968aee4d.png
+133,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03105192692,,,"Full Payment",1000,1000,0,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/pexels-alinaskazka-28459540-3514bca623788d41617715141b0f9822.jpg
+112,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03105192692,,,"Full Payment",1000,,,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/DAA-Assignment-1-Ahmed-Amjad-051-e8d5963677fbb8d11778dffa85e399f1.pdf
+13,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,,"Partial Payment",1000,300,700,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/DAA-Assignment-1-Ahmed-Amjad-051-c0726f775e132cb95d4878ba110e8dc7.pdf
+12,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,,"Partial Payment",1000,200,800,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/DAA-Assignment-1-Ahmed-Amjad-051-68d2b0b6b73534876d8b7b6165363ba1.pdf
+,"Muhammad Ahmed",ahmed405400@gmail.com,,,,,,,03345020979,,,"Cash on Delivery",1000,500,500,http://localhost/wordpress3/wp-content/uploads/wpforms/33-c86ed498aa51a3529daf30063c5b19ff/DAA-Assignment-1-Ahmed-Amjad-051-1a9f654dbe99ee3f5ce5a096626a828f.pdf
+,"Muhammad Ahmed",,,,,,,,,,dd,"Cash on Delivery",,,,
